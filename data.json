@@ -1,0 +1,7 @@
+{"new_edits":false,"docs":[
+{"_id":"cc6b37f1e6b2215f2a5ccac38c000e58","_rev":"1-cbc1dd4e0dd53b3f9770bb8edc30ae33","name":"pikachu","type":"electric","trainer":"ash","gender":"m"},
+{"_id":"cc6b37f1e6b2215f2a5ccac38c001e2c","_rev":"2-fbe6131ea1248b83301900a5954dec6d","name":"squirtle","type":"water","trainer":"ash","gender":"m"},
+{"_id":"cc6b37f1e6b2215f2a5ccac38c0020d9","_rev":"1-8f98424393470486d60cf5fff00f33d3","name":"starmie","type":"water","trainer":"misty","gender":"f"},
+{"_id":"cc6b37f1e6b2215f2a5ccac38c00215e","_rev":"1-aac04234d60216760bd9e3f89fa602e9","name":"geodude","type":"rock","trainer":"brock","gender":"m"},
+{"_id":"cc6b37f1e6b2215f2a5ccac38c0030b4","_rev":"1-280586eb35fc3bde31f88ec9913f3dcb","name":"onix","type":"rock","trainer":"brock","gender":"m"}
+]}
