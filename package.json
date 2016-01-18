@@ -1,0 +1,23 @@
+{
+  "name": "couch-nano-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "nano": "^6.1.5",
+    "q": "^1.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffcressman/couch-nano-test.git"
+  },
+  "author": "Jeff Cressman <jeff.cressman@gmail.com> (https://jeffcressman.info)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffcressman/couch-nano-test/issues"
+  },
+  "homepage": "https://github.com/jeffcressman/couch-nano-test#readme"
+}
